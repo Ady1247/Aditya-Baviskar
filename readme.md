@@ -3,7 +3,7 @@
 <h3 align="center">Associate Software Engineer | ASP.NET Core Developer | SQL Server | React.js</h3>
 
 <p align="center">
-  <a href=" www.linkedin.com/in/adybaviskar1247L">
+  <a href=" www.linkedin.com/in/adybaviskar1247">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:adybaviskar1247@gmail.com">
